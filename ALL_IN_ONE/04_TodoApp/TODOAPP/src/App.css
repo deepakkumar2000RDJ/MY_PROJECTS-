@@ -1,0 +1,23 @@
+h1{
+    font-weight: 700;
+    font-size: 55px;
+    margin: 20px;
+    margin-bottom: 20px;
+}
+
+input {
+    width: 100%;
+}
+
+.items-container{
+    text-align: left;
+}
+
+.updaterow{
+    margin: 10px 10px;
+
+}
+
+.update-button{
+    min-width: 80px;
+}
